@@ -47,4 +47,6 @@ If published on Tableau Public, add the link below:
 ## 👩‍💻 Author
 **Sukanya Borthakur**  
 *Aspiring Data Analyst | Skilled in Power BI, Tableau, and SQL*  
-[LinkedIn Profile](https://www.linkedin.com/in/your-link)
+[LinkedIn Profile](https://www.linkedin.com/in/
+sukanya-borthakur-48592220a)
+)
