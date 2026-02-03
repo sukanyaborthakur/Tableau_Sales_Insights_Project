@@ -44,7 +44,7 @@ To develop an interactive Tableau dashboard that compares regional sales perform
 If published on Tableau Public, add the link below:  
 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/sukanya.borthakur/viz/Salescomparisionsbyregionproject/Dashboard1?publish=yes)
 
-## 👩‍💻 Author
+##  Author
 **Sukanya Borthakur**  
 *Aspiring Data Analyst | Skilled in Power BI, Tableau, and SQL*  
 [LinkedIn Profile](https://www.linkedin.com/in/
